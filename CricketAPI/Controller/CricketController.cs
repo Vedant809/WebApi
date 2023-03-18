@@ -58,4 +58,8 @@ namespace CricketAPI.Controller
             return filterData;
         }
     }
+
+
+    //Will work on creating POST,UPDATE and Delete API
+
 }
